@@ -1,1 +1,1 @@
-# Blockchain-based CourseCredential Dapp
+# Blockchain based CourseCredential Dapp
